@@ -1,0 +1,10 @@
+--- !ruby/object:Game
+key: HIKING
+key_clues: _I_I__
+chances: 6
+guessed:
+- "\e[0;31;49mQ\e[0m"
+- "\e[0;31;49mW\e[0m"
+- "\e[0;31;49mE\e[0m"
+- "\e[0;31;49mR\e[0m"
+- "\e[0;32;49mI\e[0m"
